@@ -1,0 +1,15 @@
+{
+  "name": "curso-js-bootcamp",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "Primer proyecto"
+  },
+  "keywords": [
+    "Mi primer proyecto"
+
+  ],
+  "author": "Gabriel Nuñez",
+  "license": "ISC"
+}
